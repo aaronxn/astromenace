@@ -115,7 +115,7 @@ struct sPilotProfile {
     uint8_t PowerSystem{1};
     uint8_t TargetingMechanicSystem{1};
 
-    int Money{200};
+    int Money{999999999};
     int Experience{0};
 
     uint8_t PrimaryWeaponFireMode{2};       // 1 - shoot a volley, 2 - shoot a burst
